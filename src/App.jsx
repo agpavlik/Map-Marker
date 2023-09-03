@@ -11,7 +11,6 @@ import City from "./components/City";
 import CountryList from "./components/CountryList";
 import Form from "./components/Form";
 
-//localhost
 const BASE_URL = "http://localhost:8000";
 
 function App() {
