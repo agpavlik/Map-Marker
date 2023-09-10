@@ -25,90 +25,6 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Valmadrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-09T22:17:37.240Z",
-      "notes": "",
-      "position": {
-        "lat": "41.44066080576735",
-        "lng": "-0.8982994025951242"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Cardona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-10T00:10:31.276Z",
-      "notes": "",
-      "position": {
-        "lat": "41.8834086125385",
-        "lng": "1.6404535849445971"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "San Clemente",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-10T00:43:12.300Z",
-      "notes": "",
-      "position": {
-        "lat": "39.36514277156523",
-        "lng": "-2.3974397072883757"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "San Clemente",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-10T00:43:12.300Z",
-      "notes": "",
-      "position": {
-        "lat": "39.36514277156523",
-        "lng": "-2.3974397072883757"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Caceres",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-09-10T01:00:54.919Z",
-      "notes": "",
-      "position": {
-        "lat": "39.17825829996825",
-        "lng": "-6.460689294282688"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Vila Pouca de Aguiar",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2023-09-10T01:03:03.839Z",
-      "notes": "",
-      "position": {
-        "lat": "41.44103845470497",
-        "lng": "-7.650145218492529"
-      },
-      "id": 98443203
-    },
-    {
       "cityName": "Asahreppur",
       "country": "Iceland",
       "emoji": "🇮🇸",
@@ -119,18 +35,6 @@
         "lng": "-18.327319594956542"
       },
       "id": 98443204
-    },
-    {
-      "cityName": "Khoroshiv",
-      "country": "Ukraine",
-      "emoji": "🇺🇦",
-      "date": "2023-09-10T01:05:29.831Z",
-      "notes": "",
-      "position": {
-        "lat": "50.60122865873489",
-        "lng": "28.487157571313574"
-      },
-      "id": 98443205
     }
   ]
 }
