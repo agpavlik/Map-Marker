@@ -67,6 +67,7 @@ function CitiesProvider({ children }) {
     initialState
   );
 
+  // Fetch the cities list data
   useEffect(function () {
     async function fetchCities() {
       dispatch({ type: "loading" });
@@ -85,6 +86,7 @@ function CitiesProvider({ children }) {
     fetchCities();
   }, []);
 
+  // Fetch data regarding the exact city
   const getCity = useCallback(
     async function getCity(id) {
       if (Number(id) === currentCity.id) return;
@@ -105,6 +107,7 @@ function CitiesProvider({ children }) {
     [currentCity.id]
   );
 
+  // Add new city from the Form to the server
   async function createCity(newCity) {
     dispatch({ type: "loading" });
 
@@ -127,6 +130,7 @@ function CitiesProvider({ children }) {
     }
   }
 
+  // Delete the exact city
   async function deleteCity(id) {
     dispatch({ type: "loading" });
 
