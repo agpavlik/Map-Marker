@@ -87,6 +87,7 @@ function CitiesProvider({ children }) {
   }, []);
 
   // Fetch data regarding the exact city
+  // useCallback prevents infinite loops
   const getCity = useCallback(
     async function getCity(id) {
       if (Number(id) === currentCity.id) return;
