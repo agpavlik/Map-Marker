@@ -14,9 +14,13 @@ export default function Product() {
             Just $9/month.
           </h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae vel
-            labore mollitia iusto. Recusandae quos provident, laboriosam fugit
-            voluptatem iste.
+            Embark on a visual journey of your lifes adventures with MapMarker,
+            a user-friendly web application designed to help you effortlessly
+            document every city you have ever visited. Whether you are a
+            globetrotter, a weekend wanderer, or a business traveler, this
+            platform transforms your travel memories into an interactive map,
+            allowing you to relive and share your experiences in a whole new
+            way.
           </p>
         </div>
         <img src="img-2.jpg" alt="overview of a large city with skyscrapers" />

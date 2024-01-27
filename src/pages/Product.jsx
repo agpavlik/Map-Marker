@@ -13,15 +13,27 @@ export default function Product() {
         <div>
           <h2>About MapMarker.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
-          </p>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+            <h3>Seamless Registration:</h3>
+            <p>
+              Sign up in seconds and create your personalized account to start
+              mapping out your travel history.
+            </p>
+            <h3>Intuitive Map Interface:</h3>
+            <p>
+              Explore the world through an intuitive map interface. Easily
+              navigate and zoom in on different regions to pinpoint the exact
+              locations you have visited.{" "}
+            </p>
+            <h3>Precise Geolocation:</h3>
+            <p>
+              Simply click on any location on the map, and the application will
+              automatically fetch and store the city details.
+            </p>
+            <h3>Rich City Profiles:</h3>
+            <p>
+              Each city you add comes to life with rich details, including its
+              name, country, and any additional notes you want to attach.
+            </p>
           </p>
         </div>
       </section>
